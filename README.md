@@ -1,4 +1,4 @@
-# AI-based-Autonomous-Assistant-Robot
+# AI Enabled Smart Robotic Assistant
 
 While robotic machines are used in the industry in massive numbers, these machines are dumb and can do little more than a tiny set of pre-programmed tasks. There is a fresh wave of AI development in the industry, but it has mostly stuck to software only. We plan to finally bridge the gap between AI and the real hardware world. The AI bot will be physical robot which can move around, interact lively with people and do real world tasks, and wont be limited to the small screens of your phone app.
 
